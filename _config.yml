@@ -1,0 +1,28 @@
+name: Black Vodka
+favicon: null
+layout_spectrum: 0.2319569292012602
+typography_spectrum: 0.45139410998672247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.23187728505581617
+  lightness: 0.13312671636231244
+  saturation: 0.5239516906440258
+  rhythmicContrast: 0.011743530398234725
+purpose: []
